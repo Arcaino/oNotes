@@ -1,0 +1,9 @@
+@import "_variables";
+
+body{
+    display: grid;
+    background-color: $background-color;
+    grid-column-start: 1;
+    grid-column-end: 10;
+    grid-auto-rows: max-content;
+}

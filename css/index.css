@@ -1,0 +1,11 @@
+body {
+  display: -ms-grid;
+  display: grid;
+  background-color: #F6F6F6;
+  -ms-grid-column: 1;
+      grid-column-start: 1;
+  grid-column-end: 10;
+  grid-auto-rows: -webkit-max-content;
+  grid-auto-rows: max-content;
+}
+/*# sourceMappingURL=index.css.map */
