@@ -18,5 +18,8 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "styled-components": "^5.3.5"
   }
 }
